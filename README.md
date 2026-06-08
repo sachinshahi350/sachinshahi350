@@ -1,7 +1,6 @@
 <h1 align="center">
-  Hi 👋, I'm Sachin Shahi
+  Hi 👋, I'm <strong>𝐒𝐚𝐜𝐡𝐢𝐧 𝐒𝐡𝐚𝐡𝐢</strong>
 </h1>
-
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00FFFF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Developer;DSA+Enthusiast;Tech+Explorer"/>
@@ -12,10 +11,7 @@
 src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
-##  About Me
-
-<img align="right" width="180" 
-src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
+##  About me 
 
 I am a passionate **Software Developer** who enjoys creating
 efficient and meaningful digital solutions.
@@ -24,12 +20,12 @@ I believe in writing clean code, solving challenging problems,
 and continuously improving my engineering skills.
 
 Currently exploring **Full Stack Development, Data Structures,
-System Design, and modern software technologies. 🚀**
+System Design, and modern software technologies. 🚀
 
 <br>
 
 
-## 🚀 Tech Stack
+ 🚀 Tech Stack
 
 <p align="center">
 
