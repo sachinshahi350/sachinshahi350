@@ -12,13 +12,19 @@
 src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
-## 💫 About Me
+##  About Me
 
-- 🚀 Full Stack Developer  
-- 🌱 Learning **DSA & System Design**
-- 💻 Building MERN Stack Projects
-- 🧠 Problem Solving Enthusiast
+<img align="right" width="180" 
+src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
+I am a passionate **Software Developer** who enjoys creating
+efficient and meaningful digital solutions.
+
+I believe in writing clean code, solving challenging problems,
+and continuously improving my engineering skills.
+
+Currently exploring **Full Stack Development, Data Structures,
+System Design, and modern software technologies. 🚀**
 
 <br>
 
