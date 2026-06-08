@@ -7,8 +7,6 @@
 </p>
 
 
- <img align="right" width="300"
-src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif">
 
 ##  About me 
 
@@ -24,6 +22,8 @@ System Design, and modern software technologies. 🚀
 <br>
 
 
+
+
  🚀 Tech Stack
 
 <p align="center">
@@ -33,7 +33,8 @@ System Design, and modern software technologies. 🚀
 </p>
 
 
-## 📊 GitHub Dashboard
+
+ 📊 GitHub Dashboard
 
 
 <p align="center">
